@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>004406.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\004406.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1364</width>
+		<height>910</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tesla</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>429</ymin>
+			<xmax>413</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>

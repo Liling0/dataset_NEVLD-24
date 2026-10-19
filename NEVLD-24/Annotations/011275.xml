@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>011275.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\011275.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LINK&amp;CO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>345</ymin>
+			<xmax>667</xmax>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+</annotation>

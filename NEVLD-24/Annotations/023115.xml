@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>023115.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\023115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2508</width>
+		<height>1672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SGMW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1597</xmin>
+			<ymin>416</ymin>
+			<xmax>1746</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

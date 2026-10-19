@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>005855.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\005855.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2752</width>
+		<height>6112</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XIAOMI</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2287</xmin>
+			<ymin>3366</ymin>
+			<xmax>2449</xmax>
+			<ymax>3440</ymax>
+		</bndbox>
+	</object>
+</annotation>

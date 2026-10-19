@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>008743.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\008743.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Polestar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>364</ymin>
+			<xmax>624</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

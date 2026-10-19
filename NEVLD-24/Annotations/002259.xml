@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>002259.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\002259.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2444</width>
+		<height>1629</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LEAPMOTOR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1096</xmin>
+			<ymin>311</ymin>
+			<xmax>1218</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

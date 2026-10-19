@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>022140.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\022140.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2508</width>
+		<height>1672</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>DENZA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>838</ymin>
+			<xmax>587</xmax>
+			<ymax>870</ymax>
+		</bndbox>
+	</object>
+</annotation>

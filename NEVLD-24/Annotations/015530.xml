@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>015530.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\015530.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WELTMEISTER</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>802</ymin>
+			<xmax>772</xmax>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>019802.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\019802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1222</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>VOYAH</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>327</xmin>
+			<ymin>593</ymin>
+			<xmax>352</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>

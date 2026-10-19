@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>010359.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\010359.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>GEOMETRY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>814</ymin>
+			<xmax>518</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+</annotation>

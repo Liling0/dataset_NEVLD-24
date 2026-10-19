@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>017193.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\017193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1573</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WEY</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1179</xmin>
+			<ymin>519</ymin>
+			<xmax>1239</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>

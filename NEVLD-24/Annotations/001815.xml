@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>001815.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\001815.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>736</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Li Auto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>217</ymin>
+			<xmax>390</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>

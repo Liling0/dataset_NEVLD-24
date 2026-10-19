@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>013333.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\013333.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2508</width>
+		<height>1647</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ORA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>672</ymin>
+			<xmax>978</xmax>
+			<ymax>784</ymax>
+		</bndbox>
+	</object>
+</annotation>

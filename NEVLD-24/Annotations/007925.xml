@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>007925.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\007925.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1281</width>
+		<height>860</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AVATR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>69</ymin>
+			<xmax>329</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

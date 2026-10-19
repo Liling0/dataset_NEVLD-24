@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>018297.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\018297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2382</width>
+		<height>1588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AITO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1165</xmin>
+			<ymin>1247</ymin>
+			<xmax>1235</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+</annotation>

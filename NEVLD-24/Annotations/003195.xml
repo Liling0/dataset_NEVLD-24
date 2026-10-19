@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>003195.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\003195.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1515</width>
+		<height>1045</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NETA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1192</xmin>
+			<ymin>397</ymin>
+			<xmax>1216</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>007365.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\007365.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2399</width>
+		<height>1331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XPeng Motors</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1107</xmin>
+			<ymin>505</ymin>
+			<xmax>1319</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

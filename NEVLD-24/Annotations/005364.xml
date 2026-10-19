@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>005364.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\005364.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2231</width>
+		<height>1368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NIO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>567</xmin>
+			<ymin>492</ymin>
+			<xmax>616</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

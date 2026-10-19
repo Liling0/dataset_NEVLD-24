@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000528.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\000528.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2189</width>
+		<height>1419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>JIYUE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1066</xmin>
+			<ymin>576</ymin>
+			<xmax>1413</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>021263.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\021263.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deepal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1840</xmin>
+			<ymin>659</ymin>
+			<xmax>1956</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+</annotation>

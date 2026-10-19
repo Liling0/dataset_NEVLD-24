@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>012134.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\012134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2492</width>
+		<height>1622</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZEEKR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>528</ymin>
+			<xmax>871</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>

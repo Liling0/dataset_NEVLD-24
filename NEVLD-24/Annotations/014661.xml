@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>014661.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\014661.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1050</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BYD Song</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1281</xmin>
+			<ymin>166</ymin>
+			<xmax>1349</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

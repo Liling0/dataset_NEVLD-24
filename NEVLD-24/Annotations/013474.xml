@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>013474.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\013474.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BYD Qin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>537</xmin>
+			<ymin>423</ymin>
+			<xmax>635</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>018714.jpg</filename>
+	<path>D:\NEVLD\dataset\NEVLD-24\JPEGImages\018714.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2079</width>
+		<height>1222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IM</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>495</ymin>
+			<xmax>955</xmax>
+			<ymax>571</ymax>
+		</bndbox>
+	</object>
+</annotation>
